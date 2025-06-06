@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "PeerLink_frontend",
+    "slug": "PeerLink_frontend"
+  }
+}
